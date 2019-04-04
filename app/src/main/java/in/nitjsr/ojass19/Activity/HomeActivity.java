@@ -187,9 +187,6 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.menu_faq:
                 startActivity(new Intent(HomeActivity.this, FAQsActivity.class));
                 return true;
-            case R.id.menu_sponsors:
-                startActivity(new Intent(HomeActivity.this, SponsorActivity.class));
-                return true;
             case R.id.menu_app_dev:
                 startActivity(new Intent(HomeActivity.this, DeveloperView.class));
                 return true;

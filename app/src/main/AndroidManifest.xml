@@ -20,7 +20,6 @@
 
 
         <activity android:name=".Activity.FAQsActivity"></activity>
-        <activity android:name=".Activity.SponsorActivity" />
         <activity android:name=".Activity.MapsActivity" />
         <activity android:name=".Activity.FullScreenActivity" />
         <activity android:name=".Activity.FAQActivity" />

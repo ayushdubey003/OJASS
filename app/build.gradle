@@ -24,6 +24,7 @@ android {
 
 dependencies {
     //Lottie
+
     implementation 'com.airbnb.android:lottie:1.5.3'
     implementation 'com.github.Shashank02051997:FancyWalkthrough-Android:2.1'
     implementation fileTree(include: ['*.jar'], dir: 'libs')
